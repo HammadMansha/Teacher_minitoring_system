@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707112923228",
+    "project_id": "teacher-monitoring-syste-dba64",
+    "storage_bucket": "teacher-monitoring-syste-dba64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707112923228:android:eb715dec4f7e32db4ab699",
+        "android_client_info": {
+          "package_name": "com.example.finalyear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707112923228-38cge2af28kc1fb28at1vjt792pi84ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalyear",
+            "certificate_hash": "3157c15b4a1764762c38fbd79ec49fbbf272386f"
+          }
+        },
+        {
+          "client_id": "707112923228-gvq3udv6qgg5r62n8agfq19rkiueelgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVI5MNj1iNpGXh0IqYL5FzhWm5aEiiX-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707112923228-gvq3udv6qgg5r62n8agfq19rkiueelgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
